@@ -1,0 +1,7 @@
+Input Layer: Receives input data related to memory formation and retrieval from the user interface or other sources.
+
+Output Layer: Delivers output related to memory formation and retrieval to the MASTER NEURAL NETWORK.
+
+Functionality: This neural network models the hippocampus region of the brain, which is responsible for memory formation and retrieval. Its functionality will include processes such as encoding and storing information, retrieving information from memory, and consolidating information into long-term memory.
+
+Connection to MASTER NEURAL NETWORK: The Hippocampus Neural Network will connect to the MASTER NEURAL NETWORK via a bidirectional communication channel, allowing for efficient information flow.
