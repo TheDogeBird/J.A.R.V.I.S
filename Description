@@ -1,0 +1,41 @@
+Here is a rundown from GPT, explaining everything to you as if you were a new employee.
+
+Welcome to the team! Our project, J.A.R.V.I.S, aims to create a highly advanced and versatile AI assistant that closely mimics the human brain's structure and functionalities. J.A.R.V.I.S stands for Just A Rather Very Intelligent System, and our goal is to build an AI system that can assist users in various tasks, including decision-making, learning, problem-solving, and more.
+
+The core of J.A.R.V.I.S is based on a master neural network and multiple regional neural networks, each representing a specific region of the human brain. These regional networks are designed to perform functions similar to their real-life counterparts, such as memory, emotion, movement, and sensory processing.
+
+Here's an overview of J.A.R.V.I.S's structure and capabilities:
+
+Master Neural Network: The central control unit that manages and coordinates the communication between regional neural networks. It processes data from regional networks and delivers the final output to the user.
+
+Folded Cortex Representation: A hierarchical structure within the neural network that increases the surface area, enabling more interconnections and higher functions.
+
+Regional Neural Networks: Individual neural networks representing different brain regions, including:
+
+Prefrontal Cortex: Responsible for executive functions, decision-making, and planning.
+Hippocampus: Handles memory formation and retrieval.
+Amygdala: Processes emotions and emotional responses.
+Primary Motor Cortex: Controls voluntary movement.
+Parietal Lobe: Deals with object identification and spatial relationships.
+Temporal Lobe: Processes hearing, memory, emotion, and some aspects of language.
+Occipital Lobe: Responsible for visual processing.
+Limbic System: Manages emotion, motivation, learning, and memory.
+Basal Ganglia: Involved in movement coordination.
+Communication Channels: Custom layers, connection structures, or message-passing systems that enable efficient information transmission between neural networks.
+
+User Interface: A user-friendly interface that allows users to interact with J.A.R.V.I.S, issue commands, and receive output.
+
+Upon completion, J.A.R.V.I.S will be capable of:
+
+Processing natural language: Understanding user queries and providing relevant information or assistance.
+Decision-making: Helping users make informed decisions based on available data and past experiences.
+Learning and problem-solving: Adapting to new situations and solving complex problems by analyzing patterns and drawing from its knowledge base.
+Memory management: Storing and retrieving information as needed, similar to the human brain.
+Emotion recognition and response: Understanding user emotions and providing appropriate responses or recommendations.
+Sensory processing: Integrating and processing data from various sources, such as text, images, and sounds.
+Movement control: Coordinating movement for potential integration with robotic systems or other hardware.
+Our current focus is on designing and implementing the master neural network, folded cortex representation, and regional neural networks, along with their connections and communication channels. We are also working on developing a basic user interface for interacting with the system.
+
+As a developer joining our team, your role will be to contribute to the implementation, integration, and optimization of the various neural networks and their functionalities. You'll be working with cutting-edge AI frameworks and libraries to build a state-of-the-art AI assistant that pushes the boundaries of what AI can achieve.
+
+We're excited to have you on board and look forward to your contributions to the development of J.A.R.V.I.S!
