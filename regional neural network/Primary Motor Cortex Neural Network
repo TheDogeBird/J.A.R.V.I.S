@@ -1,0 +1,7 @@
+Input Layer: Receives input data related to voluntary movement control from the user interface or other sources.
+
+Output Layer: Delivers output related to voluntary movement control to the MASTER NEURAL NETWORK.
+
+Functionality: This neural network models the primary motor cortex region of the brain, which is responsible for voluntary movement control. Its functionality will include processes such as planning and executing movements, controlling movement speed and direction, and adjusting movements based on feedback.
+
+Connection to MASTER NEURAL NETWORK: The Primary Motor Cortex Neural Network will connect to the MASTER NEURAL NETWORK via a bidirectional communication channel, allowing for efficient information flow.
