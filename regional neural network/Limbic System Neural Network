@@ -1,0 +1,8 @@
+Input Layer: Receives input data related to emotion, motivation, learning, and memory from the user interface or other sources.
+
+Output Layer: Delivers output related to emotion, motivation, learning, and memory to the MASTER NEURAL NETWORK.
+
+Functionality: This neural network models the limbic system region of the brain, which is responsible for emotion, motivation, learning, and memory. 
+Its functionality will include processes such as processing emotional and motivational information, forming associations between different types of information, and forming and retrieving memories based on past experiences.
+
+Connection to MASTER NEURAL NETWORK: The Limbic System Neural Network will connect to the MASTER NEURAL NETWORK via a bidirectional communication channel, allowing for efficient information flow.
