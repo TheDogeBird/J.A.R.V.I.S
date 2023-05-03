@@ -1,0 +1,66 @@
+J.A.R.V.I.S/
+│
+├── regional_neural_networks/
+│   ├── prefrontal_cortex_neural_network.js
+│   ├── hippocampus_neural_network.js
+│   ├── amygdala_neural_network.js
+│   ├── primary_motor_cortex_neural_network.js
+│   ├── parietal_lobe_neural_network.js
+│   ├── temporal_lobe_neural_network.js
+│   ├── occipital_lobe_neural_network.js
+│   ├── limbic_system_neural_network.js
+│   └── basal_ganglia_neural_network.js
+│
+├── master_neural_network/
+│   ├── input_layer.js
+│   ├── output_layer.js
+│   ├── folded_cortex_representation.js
+│   ├── communication_interfaces/
+│   │   ├── regional_network_communication.js
+│   │   └── master_network_communication.js
+│   ├── regional_network_modules/
+│   │   ├── prefrontal_cortex_network_module.js
+│   │   ├── hippocampus_network_module.js
+│   │   ├── amygdala_network_module.js
+│   │   ├── primary_motor_cortex_network_module.js
+│   │   ├── parietal_lobe_network_module.js
+│   │   ├── temporal_lobe_network_module.js
+│   │   ├── occipital_lobe_network_module.js
+│   │   ├── limbic_system_network_module.js
+│   │   └── basal_ganglia_network_module.js
+│   └── output_layer.js
+│
+├── user_interface/
+│   ├── index.html
+│   ├── styles.css
+│   └── scripts.js
+│
+├── training_data/
+│   ├── prefrontal_cortex_training_data/
+│   ├── hippocampus_training_data/
+│   ├── amygdala_training_data/
+│   ├── primary_motor_cortex_training_data/
+│   ├── parietal_lobe_training_data/
+│   ├── temporal_lobe_training_data/
+│   ├── occipital_lobe_training_data/
+│   ├── limbic_system_training_data/
+│   └── basal_ganglia_training_data/
+│
+├── data_processing/
+│   ├── pre-processing_scripts/
+│   ├── post-processing_scripts/
+│   ├── data_augmentation_scripts/
+│   └── data_visualization_scripts/
+│
+├── utils/
+│   ├── data_loading_utils.js
+│   ├── data_preprocessing_utils.js
+│   ├── data_augmentation_utils.js
+│   ├── data_visualization_utils.js
+│   ├── model_evaluation_utils.js
+│   └── model_saving_utils.js
+│
+├── node_modules/
+│
+├── package-lock.json
+└── package.json
